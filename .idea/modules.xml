@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registerserver/registerserver.iml" filepath="$PROJECT_DIR$/registerserver/registerserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_business_server/web_business_server.iml" filepath="$PROJECT_DIR$/web_business_server/web_business_server.iml" />
+    </modules>
+  </component>
+</project>
