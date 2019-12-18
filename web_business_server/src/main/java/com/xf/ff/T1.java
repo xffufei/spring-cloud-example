@@ -8,12 +8,12 @@ import org.springframework.web.bind.annotation.RestController;
  * @author ff
  */
 @RestController
-@RequestMapping("demo1")
+@RequestMapping("web")
 public class T1 {
 
     @PostMapping("/test")
     public String hello(){
-        System.err.println("demo1");
-        return  "demo1";
+        System.err.println("hello,world");
+        return  "hello,world";
     }
 }
